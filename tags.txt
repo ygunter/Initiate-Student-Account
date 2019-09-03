@@ -1,0 +1,8 @@
+The <!---> tag is hidden notes for developer
+The <!DOCTYPE html> tag tells browsers the document is html
+The <head> tag is for metadata
+The <title> tag is for SERPs
+The <body> tag is for content diplayed within the web page
+The <br> tag is for line breaks in a parent element
+The <center> tag is to align elements in center of parent element
+The <h1> tag is for largest header style.
