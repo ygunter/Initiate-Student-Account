@@ -1,0 +1,14 @@
+body{
+    margin:10px;
+    background:#000
+}
+.content {
+    width:auto
+    boarder; 1px solid #ccc;
+    height:auto
+    margin: 20px auto;
+}
+.h1{
+    color:floralwhite;
+    text-align: center;
+}
