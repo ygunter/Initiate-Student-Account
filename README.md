@@ -1,11 +1,11 @@
 <div>
-<h1> UI Contact Form Frontend Validation </h1>
-<p>Simple web form with frontend validation.</p>
+<h1> My "hello world" </h1>
+<p>Simple website homepage.</p>
 </div>
 
 <div>
 <h2>Features</h2>
-<p>Client-side validations.</p>
+<p>None.</p>
 
 <div>
 <h2>Future Features</h2>
